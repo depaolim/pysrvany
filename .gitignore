@@ -1,0 +1,12 @@
+# TODO file
+TODO.txt
+
+# Projects files
+.idea
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+*.egg-info/
+dist
